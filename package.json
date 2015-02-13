@@ -1,0 +1,25 @@
+{
+  "name": "guardian-asserts",
+  "version": "0.0.1",
+  "description": "A collection of asserts for guardianjs testing framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guardianjs/guardian-asserts.git"
+  },
+  "keywords": [
+    "unit",
+    "test",
+    "tdd",
+    "assert"
+  ],
+  "author": "Bryant Syme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guardianjs/guardian-asserts/issues"
+  },
+  "homepage": "https://github.com/guardianjs/guardian-asserts"
+}
