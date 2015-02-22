@@ -4,7 +4,8 @@
   "description": "A collection of asserts for guardianjs testing framework.",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "watch": "node watch.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/guardianjs/guardian-asserts/issues"
   },
-  "homepage": "https://github.com/guardianjs/guardian-asserts"
+  "homepage": "https://github.com/guardianjs/guardian-asserts",
+  "devDependencies": {
+    "guardian-runner": "0.0.3",
+    "guardianjs": "0.0.2"
+  }
 }
